@@ -16,3 +16,6 @@ React (CRA — Create React App)
 CSS for styling
 
 OpenWeatherMap API for weather data
+
+DEMO: 
+https://weather-app-clone-jr.netlify.app/
